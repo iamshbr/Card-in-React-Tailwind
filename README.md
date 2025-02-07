@@ -10,9 +10,3 @@ project.
 ✅ **Customizable styles** with Tailwind CSS  
 ✅ **Reusable component** for various use cases  
 ✅ **Lightweight & fast**
-
-## 🛠️ Technologies Used
-
-- **React.js** – Component-based UI
-- **Tailwind CSS** – Utility-first styling
-- **Props** – Dynamic content handling
